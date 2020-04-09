@@ -11,3 +11,5 @@ $cargo new <folderName>
 $cargo init
 will build the project without running it
 $cargo build 
+to run use
+$cargo run
