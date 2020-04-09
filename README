@@ -5,3 +5,7 @@ $rustc <filename.rs>
 How to run a rust binary:
 $./path/to/file
 
+Make a new Project using Cargo:
+$cargo init
+will build the project without running it
+$cargo build 
