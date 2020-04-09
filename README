@@ -6,6 +6,8 @@ How to run a rust binary:
 $./path/to/file
 
 Make a new Project using Cargo:
+$cargo new <folderName>
+
 $cargo init
 will build the project without running it
 $cargo build 
