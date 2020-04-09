@@ -1,0 +1,7 @@
+RUST LEARNING REPO
+
+How to compile a Rust file:
+$rustc <filename.rs>
+How to run a rust binary:
+$./path/to/file
+
